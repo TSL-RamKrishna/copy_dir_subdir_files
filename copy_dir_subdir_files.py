@@ -6,6 +6,7 @@ import argparse
 
 # This python script copies dir/subdir/files to another file path with similar directory structure as in the original file path
 # with the option --ext, only the files with selected extension will be copied.
+# usage: python copy_dir_subdir_files.py --target target_dir --destination destination_dir --ext txt
 
 Description="Program to copy the diretories, sub-directories and files of defined extensions"
 
